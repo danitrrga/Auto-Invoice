@@ -24,7 +24,7 @@ A professional invoice generation system with GUI client management and SQLite3 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/invoice-maker.git
+   git clone https://github.com/danitrrga/invoice-maker.git
    cd invoice-maker
 2. Install required libraries
     ```python
